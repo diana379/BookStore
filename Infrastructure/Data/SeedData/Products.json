@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Mandrie si Prejudecata",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 25.00,
+    "PictureUrl": "products/mandrie.jpeg",
+    "AuthorId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Ratiune si simtire",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 25.00,
+    "PictureUrl": "products/ratiune.jpeg",
+    "AuthorId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Vicious",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 30.00,
+    "PictureUrl": "products/vicious.jpeg",
+    "AuthorId": 2,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Provocare",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 27.00,
+    "PictureUrl": "products/provocare.jpeg",
+    "AuthorId": 2,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Pe aripile vantului",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 37.00,
+    "PictureUrl": "products/aripi.jpeg",
+    "AuthorId": 3,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Compasiunea si mintea umana",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 40.00,
+    "PictureUrl": "products/compasiunea.jpeg",
+    "AuthorId": 4,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Rana de abandon",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 32.00,
+    "PictureUrl": "products/rana.jpeg",
+    "AuthorId": 5,
+    "CategoryId": 3
+  },
+  {
+    "Name": "300 de retete delicioase de post",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 35.00,
+    "PictureUrl": "products/retete.jpeg",
+    "AuthorId": 6,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Emma",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 25.00,
+    "PictureUrl": "products/emma.jpeg",
+    "AuthorId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Suflet de portelan",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 40.00,
+    "PictureUrl": "products/suflet.jpeg",
+    "AuthorId": 7,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Minciuni pe canapea",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 40.00,
+    "PictureUrl": "products/minciuni.jpeg",
+    "AuthorId": 8,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Luni de fiere",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 32.00,
+    "PictureUrl": "products/luni.jpeg",
+    "AuthorId": 9,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Arta manipularii",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 38.00,
+    "PictureUrl": "products/arta.jpeg",
+    "AuthorId": 10,
+    "CategoryId": 6
+  },
+  {
+    "Name": "Arta subtila a nepasarii",
+    "Description":"Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 38.00,
+    "PictureUrl": "products/nepasare.jpeg",
+    "AuthorId": 11,
+    "CategoryId": 6
+  },
+  {
+    "Name": "Sub aceeasi stea",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 30.00,
+    "PictureUrl": "products/sub.jpeg",
+    "AuthorId": 12,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Cautand-o pe Alaska",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 35.00,
+    "PictureUrl": "products/alaska.jpeg",
+    "AuthorId": 12,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Urzeala tronurilor",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 50.00,
+    "PictureUrl": "products/urzeala.jpeg",
+    "AuthorId": 13,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Iuresul sabiilor",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 55.00,
+    "PictureUrl": "products/iures.jpeg",
+    "AuthorId": 13,
+    "CategoryId": 5
+  }
+]

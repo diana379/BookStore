@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Clasice"
+  },
+  {
+    "Id": 2,
+    "Name": "Teen"
+  },
+  {
+    "Id": 3,
+    "Name": "Psihologie"
+  },
+  {
+    "Id": 4,
+    "Name": "Gastronomie"
+  },
+  {
+    "Id": 5,
+    "Name": "Beletristica"
+  },
+  {
+    "Id": 6,
+    "Name": "Dezvoltare Personala"
+  }
+]
