@@ -16,3 +16,18 @@
 
 }
 
+a {
+    text-decoration: none;
+    color: white;
+
+    &.active {
+        color: rgb(190, 153, 190);
+    }
+}
+
+.logo {
+    cursor: pointer;
+    &:focus {
+        outline: none;
+    }
+}

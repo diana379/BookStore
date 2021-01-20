@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light justify-content-between ">
-    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color:rgb(255, 255, 255);">BookStore</h1>
+    <h1 class = "logo" style="font-family: Verdana, Geneva, Tahoma, sans-serif; color:rgb(255, 255, 255);" routerLink="/">BookStore</h1>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -7,9 +7,10 @@
     <nav class="collapse navbar-collapse " style="font-size: larger;" id="navbarSupportedContent">
      
         
-          <a class="nav-link ml-5 text-light " >Home <span class="sr-only" >(current)</span></a>
-          <a class="nav-link ml-1 text-light " >Shop <span class="sr-only" >(current)</span></a>
-          <a class="nav-link ml-1 text-light " >Contact <span class="sr-only" >(current)</span></a>
+          <a class="nav-link ml-5  " [routerLink]="['/']"routerLinkActive="active"
+           [routerLinkActiveOptions] = "{exact: true}" >Home <span class="sr-only" >(current)</span></a>
+          <a class="nav-link ml-1  " routerLink = "/shop" routerLinkActive="active">Shop <span class="sr-only" >(current)</span></a>
+          <a class="nav-link ml-1  " >Contact <span class="sr-only" >(current)</span></a>
 
         
  

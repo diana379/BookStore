@@ -5,7 +5,7 @@
 
             <h5 class = "ml-3 " style="color: rgb(77, 23, 128);"> <strong> Categorii </strong></h5>
             <ul class="list-group my-3">
-                <li class="list-group-item" 
+                <li class="cat list-group-item" 
                  *ngFor="let category of category"
                  [class.active] = "category.id === this.shopParams.categoryId"
                  [value] = "category.id"
@@ -17,7 +17,7 @@
               </ul>
             <h5 class = "ml-3" style="color: rgb(77, 23, 128);"> <strong> Autori</strong> </h5>
               <ul class="list-group my-3">
-                  <li class="list-group-item" 
+                  <li class="cat list-group-item" 
                   *ngFor="let author of author"
                   [class.active] = "author.id === this.shopParams.authorId"
                   [value] = "author.id"
